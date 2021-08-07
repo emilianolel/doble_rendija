@@ -15,3 +15,27 @@ Aquí se almacenan los datos y el análisis del experimento de la Doble Rendija 
 	</a>
 	<br>
 </div>
+
+## Fotos Tomadas
+
+
+## Resultados
+
+### Gráficas
+
+![archivos](analisis/graficas/perfil_intensidad_distancia_154.5_con_minimos.png)
+
+![archivos](analisis/graficas/perfil_intensidad_distancia_159.4_con_minimos.png)
+
+![archivos](analisis/graficas/perfil_intensidad_distancia_167.8_con_minimos.png)
+
+![archivos](analisis/graficas/perfil_intensidad_distancia_170.45_con_minimos.png)
+
+![archivos](analisis/graficas/perfil_intensidad_distancia_184.4_con_minimos.png)
+
+![archivos](analisis/graficas/perfil_intensidad_distancia_200.1_con_minimos.png)
+
+![archivos](analisis/graficas/perfil_intensidad_distancia_214.2_con_minimos.png)
+
+![archivos](analisis/graficas/perfil_intensidad_distancia_222.8_con_minimos.png)
+
